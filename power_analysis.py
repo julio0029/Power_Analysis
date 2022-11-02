@@ -1,6 +1,6 @@
 from statsmodels.stats.power import TTestIndPower
 # parameters for power analysis
-effect = 0.8
+effect = 1.06
 alpha = 0.05
 power = 0.8
 # perform power analysis
